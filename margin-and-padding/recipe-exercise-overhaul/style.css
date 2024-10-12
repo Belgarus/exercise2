@@ -3,9 +3,11 @@
     color: red;
 }
 h1 {
-    background-color: violet;
-    margin: 20px;
-    padding: 10px;
+    margin: 14px;
+    padding: 20px;
+    width: 190px;
     border: 22px solid;
     border-color: brown;
+    background-color: yellow;
 }
+
