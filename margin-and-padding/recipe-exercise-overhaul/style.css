@@ -3,10 +3,9 @@
     color: red;
 }
 h1 {
- width: 120px;
-
- background-color: blueviolet;
- padding: 22px;
- margin: 12px;
- border: 12px;
+    background-color: violet;
+    margin: 20px;
+    padding: 10px;
+    border: 22px solid;
+    border-color: brown;
 }
