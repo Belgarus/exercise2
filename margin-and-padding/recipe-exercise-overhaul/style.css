@@ -1,6 +1,12 @@
+* {
+    background-color: black;
+    color: red;
+}
 h1 {
+ width: 120px;
+
  background-color: blueviolet;
  padding: 22px;
- margin: auto;
+ margin: 12px;
  border: 12px;
 }
