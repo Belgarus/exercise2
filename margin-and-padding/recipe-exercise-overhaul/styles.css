@@ -1,3 +1,9 @@
 * {
-    background-color: aqua;
+    color: red;
+    background-color: black;
+}
+
+p, ol, ul {color: brown;
+    border: solid 2px;
+    border-color: blueviolet;
 }
