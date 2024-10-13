@@ -1,9 +1,21 @@
 * {
-    color: red;
-    background-color: black;
-}
+  color: red;
+  background-color: black;
+  }
 
-p, ol, ul {color: brown;
-    border: solid 2px;
-    border-color: blueviolet;
-}
+.Description, ol, ul {
+                     color: brown;
+                     border: solid 2px;
+                     border-color: blueviolet;
+                     }
+
+ol, ul  {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        }
+
+p { 
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  }
