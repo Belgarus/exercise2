@@ -1,5 +1,7 @@
 .flex-container {
     display: flex;
+    justify-content: center;
+    align-items: top;
   }
   
   /* this selector selects all divs inside of .flex-container */
