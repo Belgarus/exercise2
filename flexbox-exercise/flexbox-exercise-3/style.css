@@ -2,6 +2,15 @@ body {
     height: 100%;
     background-color: aquamarine;
     }
+    
+.child-container1, .child-container2, .child-container3 {
+                                                         background-color: blueviolet;
+                                                         height: 20px;
+                                                         width: 20px;
+                                                         border: 40px, solid yellow;
+                                                         display: flex;
+                                                         justify-content: center; 
+                                                        }
 
 .flexbox-container {
         background-color: blue;
@@ -9,7 +18,8 @@ body {
         display: flex;
         height: 800px;
         flex-direction: row;
-        justify-content: center;
+        justify-content: space-between;
                    }
+
 
 
