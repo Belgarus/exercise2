@@ -3,5 +3,13 @@ body {
     background-color: aquamarine;
     }
 
+.flexbox-container {
+        background-color: blue;
+        color: white;
+        display: flex;
+        height: 800px;
+        flex-direction: column;
+        justify-content: center;
+                   }
 
 
