@@ -6,4 +6,9 @@
     display: flex;
   }
   
-  
+.item {
+    width: 60px;
+    height: 60px;
+    border: 4px solid darkslategray;
+    background: skyblue;
+  }
