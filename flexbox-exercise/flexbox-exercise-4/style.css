@@ -4,6 +4,7 @@
     background: plum;
     border: 4px solid indigo;
     display: flex;
+    justify-content: space-between;
   }
   
 .item {
@@ -11,5 +12,4 @@
     height: 60px;
     border: 4px solid darkslategray;
     background: skyblue;
-    flex: 1;
   }
