@@ -1,0 +1,1 @@
+As with the last example, this header needs to be flexible in the middle, with items pushed to the left and right.
