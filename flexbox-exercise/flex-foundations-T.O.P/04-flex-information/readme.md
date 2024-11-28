@@ -1,0 +1,1 @@
+The goal of this exercise is to recreate a section that is found on many informational websites.
