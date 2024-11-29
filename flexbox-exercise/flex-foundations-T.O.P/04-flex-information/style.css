@@ -6,7 +6,15 @@ body {
                 flex-direction: column;
                }
   .plants {display: flex;
-          align-items: center;}
+           align-items: center;
+           gap: 52px;
+           }
+
+ .plants1, .plants2, .plants3, .plants4 {display: flex;
+                                         flex-direction: column;
+                                         align-items: center;
+                                         width: 200px;
+                                        }
 
   img {
     width: 100px;
@@ -19,6 +27,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 32px;
   }
   
   /* do not edit this footer */
