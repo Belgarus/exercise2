@@ -1,0 +1,1 @@
+This one is another very common pattern on the web. 
