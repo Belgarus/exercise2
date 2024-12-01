@@ -35,6 +35,7 @@ body {
   display: flex; /* Flexbox für Zentrierung */
   align-items: center; /* Vertikale Zentrierung */
   justify-content: center; /* Horizontale Zentrierung */
+  flex-shrink: 0;
 }
 
 .close-button {
