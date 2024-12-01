@@ -73,3 +73,6 @@ button.cancel {
 
 .header {font-weight: bold;
          font-size: 20px;}
+
+.Top {display: flex;
+      justify-content: space-between;}
