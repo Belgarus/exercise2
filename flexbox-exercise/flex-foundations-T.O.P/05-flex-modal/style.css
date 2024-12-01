@@ -57,7 +57,7 @@ button {
   cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
-}
+       }
 
 button.continue {
   background: royalblue;
@@ -75,4 +75,5 @@ button.cancel {
          font-size: 20px;}
 
 .Top {display: flex;
-      justify-content: space-between;}
+      justify-content: space-between;
+      padding-bottom: 10px;}
