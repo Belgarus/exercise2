@@ -9,11 +9,10 @@ body {
   margin: 0;
   background: #aaa;
   color: #333;
-  /* I'll give you this one for free lol */
   display: flex;
   align-items: center;
   justify-content: center;
-}
+  }
 
 .modal {
   background: white;
@@ -25,17 +24,17 @@ body {
   padding: 20px;
 }
 
-.icon {
-  color: royalblue;
-  font-size: 26px;
-  font-weight: 700;
-  background: lavender;
-  width: 42px;
-  height: 42px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.icon { /*There is no Circle around the Icon*/
+  color: royalblue; /* Textfarbe */
+  font-size: 26px; /* Schriftgröße */
+  font-weight: 700; /* Fettschrift */
+  background: #add8e6; /* Hintergrundfarbe: hellblau */
+  width: 42px; /* Breite */
+  height: 42px; /* Höhe */
+  border-radius: 50%; /* Runde Form */
+  display: flex; /* Flexbox für Zentrierung */
+  align-items: center; /* Vertikale Zentrierung */
+  justify-content: center; /* Horizontale Zentrierung */
 }
 
 .close-button {
