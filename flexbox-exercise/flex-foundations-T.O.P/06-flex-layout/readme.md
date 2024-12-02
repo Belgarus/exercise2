@@ -1,0 +1,2 @@
+Flexbox is useful for laying out entire pages as well as the smaller components I've already been working with. For this exercise, I'm left with a little more work to do, with some things I haven't covered yet. 
+It's perfectly acceptable to google things I'm unsure of!
