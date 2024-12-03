@@ -31,6 +31,8 @@ body {
     background: royalblue;
     box-sizing: border-box;
     padding: 16px;
+    display: flex;
+    justify-content: flex-start;
   }
 
   .card {
@@ -38,11 +40,12 @@ body {
     box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
     border-radius: 4px;
     margin: 8px;
-    display: flex;
-    flex-direction: row; 
-    flex: 1; 
+    }
+
+.cards { 
+    justify-content: space-evenly;
     flex-wrap: wrap;
-}
+    flex: 1;}
 
   .middle {display: flex;
                  flex-direction: row;
@@ -54,4 +57,7 @@ a {text-decoration: none;
     font-size: 24px;
     }
 
-ul {list-style-type: none;}
+ul {list-style-type: none;
+     margin: 0;
+     padding: 0;
+    }
