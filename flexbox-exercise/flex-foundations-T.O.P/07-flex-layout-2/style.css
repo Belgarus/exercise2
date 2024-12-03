@@ -12,12 +12,17 @@ body {
     color: white;
     font-size: 32px;
     font-weight: 900;
+    display: flex;
+    align-items: center;
   }
   
   .footer {
     height: 72px;
     background: #eee;
     color: darkmagenta;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   .sidebar {
@@ -34,6 +39,7 @@ body {
     display: flex;
     flex-direction: row; 
     flex: 1; 
+    flex-wrap: wrap;
 }
 
   .middle {display: flex;
