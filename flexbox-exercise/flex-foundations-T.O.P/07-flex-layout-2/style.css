@@ -40,3 +40,7 @@ body {
                  flex-direction: row;
                  flex: 1; 
                 }
+
+a {text-decoration: none;}
+
+ul {list-style-type: none;}
