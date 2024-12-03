@@ -14,6 +14,7 @@ body {
     font-weight: 900;
     display: flex;
     align-items: center;
+    padding-left: 16px;
   }
   
   .footer {
@@ -29,6 +30,7 @@ body {
     width: 300px;
     background: royalblue;
     box-sizing: border-box;
+    padding: 16px;
   }
 
   .card {
@@ -47,6 +49,9 @@ body {
                  flex: 1; 
                 }
 
-a {text-decoration: none;}
+a {text-decoration: none;
+    color: white;
+    font-size: 24px;
+    }
 
 ul {list-style-type: none;}
